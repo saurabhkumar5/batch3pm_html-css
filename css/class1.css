@@ -3,7 +3,7 @@
     color: brown;
 } */
 
-
+/* 
 h1{
     background-color: purple;
 }
@@ -13,4 +13,24 @@ h1{
 }
 .hola{
     background-color: green;
+}
+#header{
+    background-color: red;
+} */
+
+
+
+/* h1{
+    background-color: slateblue !important;
+}
+.momo{
+    background-color: orangered ;
+}
+#hola{
+    background-color: yellow;
+} */
+
+
+div p{
+    background-color: forestgreen;
 }
